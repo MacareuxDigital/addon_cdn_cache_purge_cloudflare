@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Cloudflare"
+              path="/dashboard/system/optimization/cloudflare"
+              filename="/dashboard/system/optimization/cloudflare.php"
+              pagetype=""
+              description=""
+              package="cdn_cache_purge_cloudflare">
+            <attributes>
+                <attributekey handle="meta_keywords">
+                    <value>Cloudflare, Access, Key, Secret, Distribution, CloudFront, Cache, Purge</value>
+                </attributekey>
+            </attributes>
+        </page>
+    </singlepages>
+</concrete5-cif>
