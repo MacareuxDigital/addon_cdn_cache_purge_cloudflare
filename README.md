@@ -34,7 +34,7 @@ First, you get API keys from Cloudflare, then install the add-on, save the API k
 - Find `Create Custom Token` at the bottom of the list and click `Get started`
 - Create Custom Token
     - Name your token accodingly (e.g, example.com cache clear)
-    - In `Permissions``
+    - In `Permissions`
         - Select `Zone` in the 1st box
         - Select `Cache Purge` in the 2nd box
         - Select `Purge` in the last box
