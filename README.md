@@ -57,8 +57,8 @@ First, you get API keys from Cloudflare, then install the add-on, save the API k
 - Install the package
     - via Dashboard
     - via CLI
-        - V8 and earlier `concrete/bin/concrete5 c5:package:oinstall cdn_cache_purge_cloudflare`
-        - V9 and later `concrete/bin/concrete c5:package:oinstall cdn_cache_purge_cloudflare`
+        - V8 and earlier `concrete/bin/concrete5 c5:package:install cdn_cache_purge_cloudflare`
+        - V9 and later `concrete/bin/concrete c5:package:install cdn_cache_purge_cloudflare`
 
 ### Save API keys
 
